@@ -1,4 +1,4 @@
-# JoWeather
+# JoWeather V - 2
 
  ### This is Real-time Weather App Website Based On React JS and Tailwind CSS
  
@@ -23,7 +23,11 @@
       
    
 
+   ### There is also Version 1.0 of Weather App which is previously build on HTML, CSS and JavaScript to visit Click Here <a href = "https://shubham996633.github.io/Weather__App/">Weather App </a> .
+
  ## Note
+
+    
  
    Some-time there is a clash between APIs so By that reason JoWeather App can't  
    able to complete your desired request so please visit after Some-time upto that it will be resolved by The Developer
