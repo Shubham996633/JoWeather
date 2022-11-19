@@ -1,4 +1,4 @@
-# JoWeather V - 2
+# JoWeather 
 
  ### This is Real-time Weather App Website Based On React JS and Tailwind CSS
  
